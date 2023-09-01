@@ -12,6 +12,10 @@ This is a responsive website created using HTML, CSS and JavaScript
 - **Visual Studio Code** needs to be installed into local machine as a code editor. [Install it from here](https://code.visualstudio.com/)
 - Next add **Live Server** extension to code editor from the section "Add Extensions" in Visual Studio Code.
 
+## Documentation
+
+[My Website](https://github.com/Saptak-2001/OnlineEducationWebsite/raw/master/website%20screen-capture.webm)
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptak-sarkar-0548b120a)
